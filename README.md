@@ -1,14 +1,21 @@
-# Minimal Theme
+# Pacha Science
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+[Project v0.0.1](https://pacha.science/)
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+This is an initiative of the **WaterOps BR** team with support of [PachaMen](http://pacha.men/).
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+We believe that we can work together, develop our capabilities and live in harmony with Water and [Nature](https://harmonywithnatureun.org).
+
 
 # License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is licensed under a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
+# Free Cultural approved for works.
 
+<img src="https://creativecommons.org/images/deed/FreeCulturalWorks_seal_x2.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+[Source] (https://freedomdefined.org/Definition)
