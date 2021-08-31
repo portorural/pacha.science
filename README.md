@@ -18,4 +18,4 @@ This work is licensed under a [Attribution-ShareAlike 4.0 International (CC BY-S
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-[Source] (https://freedomdefined.org/Definition)
+[Source](https://freedomdefined.org/Definition)
