@@ -2,9 +2,9 @@
 
 URL: Project [v0.0.1](https://pacha.science/)
 
-This is an initiative of the **WaterOps BR** team with support of **Project #288** of [PachaMen](http://pacha.men/).
+This is an initiative of the **WaterOps BR** team with support of **Project #126** of [PachaMen](https://pacha.men/).
 
-We believe that we can work together, develop our capabilities and live in harmony with waters and [Nature](https://harmonywithnatureun.org).
+We believe that we can work together, develop our capabilities and live in harmony with waters and [Nature](http://harmonywithnatureun.org).
 
 
 ## License
